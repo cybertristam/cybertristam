@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @cybertristam
+- 👋 Hi, I’m Jon Wright @cybertristam
 - 👀 I’m interested in DevOps, DevSecOps, Containers, Kubernetes, Cloud Computing, Python
 - 🌱 I’m currently learning Jenkins Pipelines, Security enabled Pipelines, Python, Kubernetes
 - 💞️ I’m looking to collaborate on DevSecOps Projects
